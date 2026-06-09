@@ -1,6 +1,3 @@
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
-
 ## About
 👋 Heyo — I'm Valeria Abril Rosado Sánchez (GitHub: RosadoSanchez).
 
